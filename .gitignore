@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/OrderProcessingSystem/DesignTimeBuild
+/Source/OrderProcessingSystem.BusinessServices/obj/Debug/netcoreapp3.1
+/Source/OrderProcessingSystem.BusinessServices/obj
+/Source/OrderProcessingSystem.Common/obj/Debug/netcoreapp3.1
+/Source/OrderProcessingSystem.Common/obj
+/Test/OrderProcessingSystem.Tests/obj
+/Source/OrderProcessingSystem.Common/bin/Debug/netcoreapp3.1
+/Test/OrderProcessingSystem.Tests/bin/Debug/netcoreapp3.1
