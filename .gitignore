@@ -10,3 +10,5 @@
 /Test/OrderProcessingSystem.Tests/obj
 /Source/OrderProcessingSystem.Common/bin/Debug/netcoreapp3.1
 /Test/OrderProcessingSystem.Tests/bin/Debug/netcoreapp3.1
+/.vs/OrderProcessingSystem/v16/TestStore/0
+/Source/OrderProcessingSystem.BusinessServices/bin/Debug/netcoreapp3.1
